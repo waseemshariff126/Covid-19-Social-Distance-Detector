@@ -21,4 +21,4 @@ Finally, we return the results to the calling function.
 - python social_distance_violation.py --input pedestrians.mp4
 - python social_distance_violation.py --input pedestrians.mp4 --output output.avi
 # <img
-src=<"Capture45.png”/>
+<img src="Capture45.png”/>
