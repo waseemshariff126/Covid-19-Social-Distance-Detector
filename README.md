@@ -13,7 +13,12 @@ Assuming the result of NMS yields at least one detection, we loop over them, ext
 - Bounding box of each person
 - Centroid of each person
 Finally, we return the results to the calling function.
-
+# Download and place the following under yolo-coco/ : 
+- yolov3.cfg 
+- yolov3.weights
+- coco.names 
 # Usage :
 - python social_distance_violation.py --input pedestrians.mp4
 - python social_distance_violation.py --input pedestrians.mp4 --output output.avi
+# <img
+src=<"Capture45.png”/>
