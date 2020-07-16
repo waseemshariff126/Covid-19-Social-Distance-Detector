@@ -20,5 +20,8 @@ Finally, we return the results to the calling function.
 # Usage :
 - python social_distance_violation.py --input pedestrians.mp4
 - python social_distance_violation.py --input pedestrians.mp4 --output output.avi
-# 
 <img src = "Capture45.PNG">
+
+# Contribution and References
+Inspiration for this project is Adrain Rosebrock (Author PyImageSearch).
+https://www.pyimagesearch.com/2020/06/01/opencv-social-distancing-detector/
