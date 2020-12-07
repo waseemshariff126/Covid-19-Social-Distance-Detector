@@ -24,4 +24,3 @@ Finally, we return the results to the calling function.
 
 # Contribution and References
 Inspiration for this project is Adrain Rosebrock (Author PyImageSearch).
-https://www.pyimagesearch.com/2020/06/01/opencv-social-distancing-detector/
